@@ -8,9 +8,10 @@ In today’s digital era, platforms like Reddit have emerged as modern public fo
 - **Topic Modeling**: Use BERTopic and Latent Dirichlet Allocation (LDA) to uncover trending topics and themes over time.
 - **Model Comparison**: Evaluate ML models (Random Forest, Logistic Regression, Naive Bayes) and deep learning models (Bidirectional LSTM, MLP) for sentiment prediction.
 ## Files in the Repository
-
 - **EDA_and_LDA_Topic_Modelling.ipynb**: Contains exploratory data analysis (EDA) and topic modeling using LDA on Reddit data.
 - **Project Paper**: Documentation and context of all the findings
+- **Reddit_Scraper.py**: A script to extract posts from Reddit using the PRAW (Python Reddit API Wrapper) library. This script fetches data from specific subreddits and processes it for further analysis.
+
 ## Dataset
 - **Source**: Reddit posts from 2021-2024, scraped using the Python Reddit API Wrapper (PRAW).
 - **Content**: Text data from subreddits such as `r/elections` and `r/replublicans`.
