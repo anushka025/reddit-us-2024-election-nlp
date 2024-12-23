@@ -10,7 +10,7 @@ In today’s digital era, platforms like Reddit have emerged as modern public fo
 ## Files in the Repository
 
 - **EDA_and_LDA_Topic_Modelling.ipynb**: Contains exploratory data analysis (EDA) and topic modeling using LDA on Reddit data.
--**Project Paper**: Documentation and context of all the findings
+- **Project Paper**: Documentation and context of all the findings
 ## Dataset
 - **Source**: Reddit posts from 2021-2024, scraped using the Python Reddit API Wrapper (PRAW).
 - **Content**: Text data from subreddits such as `r/elections` and `r/replublicans`.
